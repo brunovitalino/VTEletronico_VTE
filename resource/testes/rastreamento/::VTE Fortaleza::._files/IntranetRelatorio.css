@@ -1,0 +1,74 @@
+td,th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;	
+}
+
+body {
+	background-color: #ffffff;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+.v8
+{
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    FONT-SIZE: 7pt;
+    TEXT-DECORATION: none;
+    background-color: #ffffff;         
+}
+
+.box
+{
+    BORDER-BOTTOM: solid 1px;
+    BORDER-LEFT: solid 1px;
+    BORDER-RIGHT: solid 1px;
+    BORDER-TOP: solid 1px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    FONT-SIZE: 8pt
+}
+
+a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+}
+
+a:link {
+	text-decoration: none;
+	color: #0033FF;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #0033FF;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #003366;
+}
+
+a:active {
+	text-decoration: none;
+	color: #0033FF;
+}
+
+.TituloGrande {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 9pt;
+	color: #000000;
+	font-weight: bold;
+}
+
+.TituloPequeno {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 7pt;
+	color: #000000;
+	font-weight: bold;
+}
+
+.btn_cinza { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 7pt; color: #000000; text-decoration: none; background-color: #E0E0E0; margin-right: 2px; margin-left: 2px ; border: solid; border-color: #6E8DA7 #6E8DA7 #6E8DA7 #6E8DA7; border-width: 1px 1px 1px 1px }
+.btn_cinzaFB { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 7pt; color: #E0E0E0; text-decoration: none; background-color: #E9E9E9; margin-right: 2px; margin-left: 2px ; border: solid; border-color: #6E8DA7 #6E8DA7 #6E8DA7 #6E8DA7; border-width: 1px 1px 1px 1px }
